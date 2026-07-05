@@ -7,7 +7,7 @@
 <a href="https://rakib-portfolio-lilac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-rakib--portfolio--lilac.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://huggingface.co/rakib72642"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-rakib72642-yellow?style=for-the-badge" /></a>
 <a href="https://huggingface.co/HawkEyesAI"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Org-HawkEyesAI-yellow?style=for-the-badge" /></a>
-<a href="mailto:rakib.hedigital@gmail.com"><img src="https://img.shields.io/badge/Email-rakib.hedigital%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:naym.mj@gmail.com"><img src="https://img.shields.io/badge/Email-naym.mj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F2&center=true&vCenter=true&width=780&lines=Head+of+AI+%40+HawkEyes+Digital+Monitoring;Production+Computer+Vision+%40+2M%2B+retail+outlets;Building+RAG+%2B+Multi-Agent+LLM+Systems;Real-Time+Voice+Agents+(WebRTC+%2B+LangGraph);Custom+Bangladeshi-Accent+Bangla+TTS+(VITS)" alt="Typing SVG" />
 
@@ -122,7 +122,7 @@ I've spent 3+ years shipping AI systems that run at national scale: a computer-v
 
 <div align="center">
 
-<a href="mailto:rakib.hedigital@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:naym.mj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://rakib-portfolio-lilac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://huggingface.co/rakib72642"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
 
